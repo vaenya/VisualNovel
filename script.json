@@ -1,0 +1,252 @@
+{ 
+    "Characters": {
+        "Morgan": {
+			"Neutral": "images/girl_sprite_neutral.png",
+        	"Happy": "images/girl_sprite_happy.png",
+        	"Sad": "images/girl_sprite_sad.png",
+        	"Angry": "images/girl_sprite_angry.png"
+        },
+        "The Crow": {
+        	"Neutral": "images/bird_sprite_neutral.png"
+        },
+		"Novelist": {
+			"Neutral": "images/novelist_sprite_neutral.png"
+		}
+
+    },
+
+    "Scene1": {
+    	"Background": "images/bg_1.png",
+    	"PAGES": {
+			"Page00" : {
+				"Character": "Novelist",
+				"Sprite": "Neutral",
+				"PageText": "At the first streams of light softly beaming through the sheer veils covering the window, Morgan's eyes were already awake.",
+				"Background": "images/bg_1.png"
+			},
+			"Page01" : {
+                "Character": "Novelist",
+				"Sprite":"Neutral",
+				"PageText": "Once or twice, the nanny has knocked on her door softly earlier as a tell that breakfast is almost ready. A good reminder if one's nose could not smell the oatmeal bubbling in the pots downstairs.",
+				"Background": "images/bg_1.png"
+			},
+			"Page02" :{
+				"Character":"Morgan",
+				"Sprite":"Happy",
+				"PageText": "Eddie! Just five more winks! I promise I will not fall asleep!",
+				"Background": "images/bg_1.png"
+			},
+			"Page03" :{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "A yell came from downstairs, muffled by the creaking floors. The nursemaid, mindful of the stove, gives her last standing hurrah before letting the little girl off the hook. Momentarily, at least.",
+				"Background": "images/bg_1.png"
+			},
+			"Page04" :{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "Turning her head over to the doll, a gift from the governess for good behavior, Morgan falls into a practiced dialogue.",
+				"Background": "images/bg_1.png"
+			},
+			"Page05" :{
+				"Character":"Morgan",
+				"Sprite":"Happy",
+				"PageText": "Livie my dearie, would it not be so wonderful if one could sleep forever, to find rest so restful? (The doll looks at her quietly.) Oh, you are quite right. If one is to lay so eternally, we would not be able to run freely in the grass with Father.",
+				"Background": "images/bg_1.png"
+			},
+			"Page06" :{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "The room brightens from the enthusiastic dialogue of its young occupant and friend, Suddenly, a bird caw cuts through the laughter, cutting the girrl's word in half. Morgan gets up, forgetting her friend on her soft bedsheet, ready to assail whoever surprised her out of her play.",
+				"Background": "images/bg_1.png"
+			},
+			"Page07" :{
+				"Character":"Morgan",
+				"Sprite":"Angry",
+				"PageText": "How rude! Show yourself fiend!",
+				"Background": "images/bg_1.png"
+			},
+			"Page08" :{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "From the window, a shadow seems to grow as the stranger approached the glass of the window. At a glance, one could find the belonger of the shadow perching on a branch. A crow, no. The Crow, as Morgan quickly dubbed it in her head. Fitting name as its plumage was covered in pitch and its amber eyes glared into the glass.",
+				"Background": "images/bg_1.png"
+			},
+			"Page09" : {
+				"Character": "Novelist",
+				"Sprite": "Neutral",
+				"PageText": "Morgan walks toward the window with the courage of a young knight.",
+				"Background": "images/bg_2.png"
+			},
+			"Page10":{
+				"Character":"Morgan",
+				"Sprite":"Angry",
+				"PageText": "If one is to have good manners, apologies are in order! Interrupting a young lady in her dialogue is discourteous. My governess said so once.",
+				"Background":"images/bg_2.png"
+			},
+			"Page11":{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "The crow cocks its head toward the glass as if to gauge the newfound presence, a pretense if one must be honest. The earlier cry was evidence enough of its presence. Already watching.",
+				"Background":"images/bg_2.png"
+			},
+			"Page12":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText": "If discourtesy is to be another of my sins, then i'll shall repent on Sunday.",
+				"Background":"images/bg_2.png"
+			},
+			"Page13":{
+				"Character":"Morgan",
+				"Sprite":"Neutral",
+				"PageText": "Smart remarks does not make it right.",
+				"Background":"images/bg_2.png"
+			},
+			"Page14":{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText":"The Crow's eye stare back at the girl, amusement infered from the little crease near its eye. An animal's emotions are no stranger to children, ever imaginative and smart.",
+				"Background":"images/bg_2.png"
+			},
+			"Page15":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText": "Money paid well for an intelligent governess. What a smart child, you are.",
+				"Background": "images/bg_2.png"
+			},
+			"Page16": {
+				"Character": "Novelist",
+				"Sprite": "Neutral",
+				"PageText": "Morgan scoffs with a turn of the head and turns her eye directly into The Crow's gaze.",
+				"Background":"images/bg_3.png"
+			},
+			"Page17":{
+				"Character":"Morgan",
+				"Sprite":"Angry",
+				"PageText": "Do not mock me. I recognise falseties in your words.",
+				"Background":"images/bg_3.png"
+			},
+			"Page18":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText": "Mockery does not make it wrong. It was utterly sincere in form.",
+				"Background":"images/bg_3.png"
+			},
+			"Page19":{
+				"Character":"Morgan",
+				"Sprite":"Happy",
+				"PageText": "Then, drop the pleasanteries and talk to me. As a friend. Why did you cry so loud in the early light?",
+				"Background":"images/bg_3.png"
+			},
+			"Page20":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText": "Now, what would a bird like me need in these times? Guess. You are a smart one.",
+				"Background":"images/bg_3.png"
+			},
+			"Page21":{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText":"The girl scratches her head. She has no gap in her knowledges, filled by her governess, on the education of a young lady. “It would not be proper”, as her governess would say. “A young lady's thirst will quench in time, tired by adulthood and children.” Thankfully, the time has not come yet and bird knowledge is what she demands.",
+				"Background":"images/bg_3.png"
+			},
+			"Page22":{
+				"Character":"Morgan",
+				"Sprite":"Sad",
+				"PageText": "I do not know, to be honest. It would seem I have forgotten to inquire about the constitution and needs of birds to my governess.",
+				"Background":"images/bg_3.png"
+			},
+			"Page23":{
+				"Character":"The Crow",
+				"Sprite": "Neutral",
+				"PageText": "This disapoints me so. Though, I am not surprised. You will never need to know as long as your future husband is well enough. It is but the truth of girls like you. ",
+				"Background":"images/bg_3.png"
+			},
+			"Page24":{
+				"Character":"Morgan",
+				"Sprite":"Angry",
+				"PageText": "For a creature of flight, you have quite narrow views. Mistake not my lack of knowledge as a sign of weakness. Maybe one day, I too would like to fly. Who would dare to stop me? ",
+				"Background":"images/bg_3.png"
+			},
+			"Page25":{
+				"Character":"The Crow",
+				"Sprite": "Neutral",
+				"PageText": "Who indeed? For all intents and purposes, it could be you.",
+				"Background":"images/bg_3.png"
+			},
+			"Page26":{
+				"Character":"Morgan",
+				"Sprite":"Angry",
+				"PageText":"Nonsense! To clib one's wings? Willingly? I would rather eat Eddie's boiled onions!",
+				"Background":"images/bg_3.png"
+			},
+			"Page27":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText": "If one does not want to arrive at such a sad state, I would suggest one thing. As you said after all, I am a creature of flight. I can teach you.",
+				"Background":"images/bg_3.png"
+			},
+			"Page28":{
+				"Character":"Morgan",
+				"Sprite":"Sad",
+				"PageText": " But, I do not possess wings. Or a beak. Or the small body of an heron.",
+				"Background":"images/bg_3.png"
+			},
+			"Page29":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText":"Anything is possible if you choose so. (pause) You said it yourself.",
+				"Background":"images/bg_3.png"
+			},
+			"Page30":{
+				"Character":"Morgan",
+				"Sprite":"Sad",
+				"PageText": "Yes but-",
+				"Background":"images/bg_3.png"
+			},
+			"Page31":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText": "Now, will you say no in the end? I thought you courageous and smart.",
+				"Background":"images/bg_3.png"
+			},
+			"Page32":{
+				"Character":"Morgan",
+				"Sprite":"Angry",
+				"PageText": "Indeed I am and it would be foolish to deny it.",
+				"Background":"images/bg_3.png"
+			},
+			"Page33":{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "The Crow extends his wing, already knowing he has won.",
+				"Background":"images/bg_3.png"
+			},
+			"Page34":{
+				"Character":"The Crow",
+				"Sprite":"Neutral",
+				"PageText":"So, will you take it?",
+				"Background":"images/bg_3.png"
+			},
+			"Page35" : {
+				"Character": "Novelist",
+				"Sprite": "Neutral",
+				"PageText": "Morgan, hesitation biting at her, quickly touches the bird's extending wing. At the second of collision, Morgan is no where to be seen. A single dove rest on the floor. No more words are heard through that room in that loud morning.",
+				"Background":"images/bg_4.png"
+			},
+			"Page36" : {
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "A loud scream is heard when Edith, the nursemaid, come upstairs to berate the girl for her bad behavior of oversleeping. The house is set ablaze with panic, the maids scurrying around the estate. A single window open. A feather. Fly away she did. ",
+				"Background":"images/bg_5.png"
+			},
+			"Page37" :{
+				"Character":"Novelist",
+				"Sprite":"Neutral",
+				"PageText": "The End. ",
+				"Background":"images/bg_5.png"
+			}
+		}
+	}
+}
+
